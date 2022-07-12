@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Fabien Maussion
-bio: "Climate, glaciers, open science, education, and software development"
+title: Frantisek Stanek
+bio: "Geophysicist"
 locale: en_US
 url:
 image:
@@ -28,22 +28,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Fabien Maussion
+  name: Frantisek Stanek
   avatar: fabi-portrait.jpg
-  bio: "Climate, glaciers, open science, education, and software development."
-  github: fmaussion
-  bitbucket: fmaussion
+  bio: "Geophysics"
+  github: StanekFr
+  bitbucket: ---
   orcid: 0000-0002-3211-506X
   scholar: tTpQiSgAAAAJ
-  mendeley: fabien-maussion
+  mendeley: ---
   researchgate:
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+  stackoverflow: ---
   email:
-  disqus-shortname: fmaussion
-  twitter: FabClimate
-  facebook: #username
+  disqus-shortname: StanekFr
+  twitter: ---
+  facebook: ---
   google:
-    plus: #username
+    plus: ---
     analytics: UA-88391345-1
     verify:
     ad-client:
