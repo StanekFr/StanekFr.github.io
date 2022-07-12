@@ -1,0 +1,9 @@
+{% if page.author %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+{% endif %}
+
+<div itemscope itemtype="http://schema.org/Person">
+
+	<img src="{{ site.url }}/images/fake-portrait.jpg" class="bio-photo" alt="{{ author.name }} bio photo">
+
+</div>
