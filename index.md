@@ -21,11 +21,9 @@ I do this mostly...
 I am also active around the topics of **cloud computing**.
 On this website you'll find infos and links to the projects I contribute to.
 
-![ACINN Logo](/images/acinn_logo.png)
+![CSM_logo](/images/CSM_logo.png)
 {: .image-pull-right .max-width-20}
 
 ### Contact
 <p>
-I currently live in Denver area, Colorado, USA. When there isn't a global pandemic, 
-  you'll find me in my <a href="https://www.uibk.ac.at/acinn/people/fabien-maussion.html.en">office</a> at the usual
-working hours.  Otherwise, you can reach me at <script>document.write("<n uers=\"znvygb:snovra.znhffvba@hvox.np.ng\">snovra.znhffvba@hvox.np.ng</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}))</script><noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.liamg@reyohs</span></noscript>.</p>
+I currently live in Denver area, Colorado, USA. Feel free to reach me at <script>document.write("<n uers=\"znvygb:snovra.znhffvba@hvox.np.ng\">snovra.znhffvba@hvox.np.ng</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}))</script><noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.liamg@reyohs</span></noscript>.</p>
