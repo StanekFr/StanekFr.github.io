@@ -26,4 +26,4 @@ On this website you'll find infos and links to the projects I contribute to.
 
 ### Contact
 <p>
-I currently live in Denver area, Colorado, USA. Feel free to reach me at <script>document.write("<n uers=\"znvygb:snovra.znhffvba@hvox.np.ng\">snovra.znhffvba@hvox.np.ng</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}))</script><noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.liamg@reyohs</span></noscript>.</p>
+I currently live in Denver area, Colorado, USA. Feel free to reach me at ...</p>
