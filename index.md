@@ -26,4 +26,4 @@ On this website you'll find infos and links to the projects I contribute to.
 
 ### Contact
 <p>
-I currently live in Denver area, Colorado, USA. Feel free to reach me at ...</p>
+I currently live in Denver area, Colorado, USA. Feel free to reach me at </p>
