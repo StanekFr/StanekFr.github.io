@@ -32,25 +32,25 @@ owner:
   avatar: fabi-portrait.jpg
   bio: "Geophysics"
   github: StanekFr
-  bitbucket: ---
-  orcid: 0000-0002-3211-506X
-  scholar: tTpQiSgAAAAJ
-  mendeley: ---
-  researchgate:
-  stackoverflow: ---
-  email:
-  disqus-shortname: StanekFr
-  twitter: ---
-  facebook: ---
-  google:
-    plus: ---
-    analytics: UA-88391345-1
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  linkedin: #username
-  instagram: uibk.climate
+  bitbucket: #username
+  orcid: 0000-0002-0037-9239
+  scholar: k5i3d9MAAAAJ
+  mendeley: #username
+  researchgate: Frantisek-Stanek
+  stackoverflow: #username
+  email: FStanek@mines.edu
+  disqus-shortname: #username
+  twitter: #username
+  facebook: #username
+  google: #username
+    plus: #username
+    analytics: #username
+    verify: #username
+    ad-client: #username
+    ad-slot: #username
+  bing-verify: #username
+  linkedin: stanekfr
+  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
