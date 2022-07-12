@@ -1,0 +1,66 @@
+# Site wide configuration
+
+title: Fabien Maussion
+bio: "Climate, glaciers, open science, education, and software development"
+locale: en_US
+url:
+image:
+  feature: fm-header-1.jpg
+
+# Jekyll configuration
+
+permalink:   pretty
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+# Site owner
+owner:
+  name: Fabien Maussion
+  avatar: fabi-portrait.jpg
+  bio: "Climate, glaciers, open science, education, and software development."
+  github: fmaussion
+  bitbucket: fmaussion
+  orcid: 0000-0002-3211-506X
+  scholar: tTpQiSgAAAAJ
+  mendeley: fabien-maussion
+  researchgate:
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  email:
+  disqus-shortname: fmaussion
+  twitter: FabClimate
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-88391345-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  linkedin: #username
+  instagram: uibk.climate
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
