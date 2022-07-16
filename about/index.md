@@ -6,7 +6,7 @@ title: "About"
 modified: 2016-05-12
 ---
 
-<span><i class="fa fa-creative-commons"></i> 2016 - {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
+<span><i class="fa fa-creative-commons"></i> 2022 - {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
 
 The views expressed on this site are personal and do not necessarily represent the official positions of my employers.
 
@@ -20,7 +20,6 @@ Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, p
 * [Homepage]({{ site.url }}/images/fm-header-1.jpg): Lake La’nga Co and Lake Mapam Yumco near Mount Kailash (Tibet)
 * [Research]({{ site.url }}/images/fm-header-2.jpg): Field work at Zhadang Glacier (Tibet)
 * [Publications]({{ site.url }}/images/fm-header-3.jpg): Watzespitze seen from the Steinbock pass (Austrian Alps)
-* [Teaching]({{ site.url }}/images/fm-header-4.jpg): Zhadang Glacier, Mount Nyainqêntanglha (7162 m a.s.l.), and Nam Co lake (Tibet)
 * [Software]({{ site.url }}/images/fm-header-5.jpg): Prins Karls Forland (Svalbard)
 * [CV]({{ site.url }}/images/fm-header-9.jpg): Dolomites, Italy
 * [Posts]({{ site.url }}/images/fm-header-6.jpg): Valley on the way to Naimona’nyi Glacier (Tibet)
