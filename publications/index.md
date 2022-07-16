@@ -1,20 +1,15 @@
 ---
 layout: page
 image:
-  feature: fm-header-3.jpg
+  feature: FS_head.jpg
 title: "Publications and outreach"
 ---
 
 ## Peer-reviewed publications
 
-![Orcid]({{ site.url }}/images/orcid.png) [Orcid](http://orcid.org/0000-0002-3211-506X)   
-![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=tTpQiSgAAAAJ&hl=fr)   
-![Mendeley]({{ site.url }}/images/mendeley.png) [Mendeley](https://www.mendeley.com/profiles/fabien-maussion/)    
-![ResearcherID]({{ site.url }}/images/rid.png) [ResearcherID](http://www.researcherid.com/rid/B-9814-2013)  
-
-*New (October 2021):* My habilitation thesis ([wikipedia](https://en.wikipedia.org/wiki/Habilitation)) was recently accepted.
-You can find an online copy [here](https://fabienmaussion.info/habil2.0).
-
+![Orcid]({{ site.url }}/images/orcid.png) [Orcid]((https://orcid.org/my-orcid?orcid=0000-0002-0037-9239))   
+![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=k5i3d9MAAAAJ&hl=cs)       
+![ResearcherID]({{ site.url }}/images/rid.png) [ResearcherID](https://www.researchgate.net/profile/Frantisek-Stanek)  
 
 ## Press (selection)
 
