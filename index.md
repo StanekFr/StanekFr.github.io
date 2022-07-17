@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: AbuDhabi2.jpg
+  feature: AbuDhabi.jpg
 title: "About"
 ---
 
