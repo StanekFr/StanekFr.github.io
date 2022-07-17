@@ -11,8 +11,8 @@ title: "About"
   </div>
 </footer>
 
-I am currently a **postdoc at the Department of Geophysics,
-[Colorado School of Mines](https://geophysics.mines.edu/)**. I am a member of **Reservoir Characterization Project ([RCP](https://rcp.mines.edu/)) and Center for Wave Phenomena ([CWP](https://cwp.mines.edu/))** research groups. RCP and CWP are consortia funded by industry and directly collaborating with industry, government agencies and other academic institutions.
+I am currently a **postdoc at the [Department of Geophysics,
+Colorado School of Mines](https://geophysics.mines.edu/)**. I am a member of **[Reservoir Characterization Project (RCP)](https://rcp.mines.edu/)) and [Center for Wave Phenomena (CWP)](https://cwp.mines.edu/))** research groups. RCP and CWP are consortia funded by industry and directly collaborating with industry, government agencies and other academic institutions.
 
 ![CSM_logo](/images/CSM_logo.png)
 {: .image-pull-right .max-width-10}
