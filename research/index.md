@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 image:
   feature: OKCity.jpg
 title: "Research"
