@@ -2,7 +2,7 @@
 layout: homepage
 image:
   feature: Soelden.jpg
-title: "Publications and outreach"
+title: "Publications"
 modified: 2022-07-17
 ---
 
