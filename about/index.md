@@ -25,7 +25,3 @@ Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, p
 <!--* [Posts]({{ site.url }}/images/fm-header-6.jpg): Valley on the way to Naimona’nyi Glacier (Tibet)-->
 <!--* [Team]({{ site.url }}/images/fm-header-7.jpg): Landmannalaugar, Iceland-->
 <!--* [About]({{ site.url }}/images/fm-header-8.jpg): Pyrenees, France -->
-
-### Other things
-
-In my spare time, I enjoy sleeping, having good food, traveling, and I like all kinds of sports :)
