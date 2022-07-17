@@ -24,4 +24,4 @@ On this website, you'll find info about me and the projects I contribute to.
 
 ### Contact
 <p>
-I currently live in Denver area, Colorado, USA. Feel free to reach me at </p>
+I currently live in Denver area, Colorado, USA. Feel free to reach me at FStanek@mines.edu</p>
