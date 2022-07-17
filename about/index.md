@@ -3,7 +3,7 @@ layout: homepage
 image:
   feature: MTEvans.jpg
 title: "About"
-modified: 2016-05-12
+modified: 2022-07-17
 ---
 
 <span><i class="fa fa-creative-commons"></i> 2022 - {{ site.time | date: '%Y' }} {{ site.owner.name }}.</span>
