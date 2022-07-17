@@ -28,4 +28,4 @@ Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, p
 
 ### Other things
 
-In my spare time I enjoy sleeping, good food, sports :)
+In my spare time, I enjoy sleeping, having good food, traveling, and I like all kinds of sports :)
