@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 image:
   feature: Soelden.jpg
 title: "Publications and outreach"
