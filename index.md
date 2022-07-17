@@ -11,14 +11,14 @@ title: "About"
   </div>
 </footer>
 
-I am a postdoctoral fellow at the 
+I am a postdoc at the 
 [Colorado School of Mines](https://geophysics.mines.edu/),
 
-I&#160;specialize in data processing of **DAS microseismic**, in particular 
-induced during **hydraulic fracturing**. 
-I do this mostly...
+I focus on processing **microseismic** data acquired by **DAS or traditional geophones/seismometers** either at the surafce or in borehole. In particular 
+I am trying to better understand relationship between reservoir and seismicity induced during subsurface operations such as **hydraulic fracturing, CO2 injection, wastewater injection, and mining**.
+I am also interested in the topics of **cloud computing**.
+I work mainly from my office but like going to the field as well.
 
-I am also active around the topics of **cloud computing**.
 On this website you'll find infos and links to the projects I contribute to.
 
 ![CSM_logo](/images/CSM_logo.png)
