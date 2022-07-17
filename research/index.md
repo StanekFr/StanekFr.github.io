@@ -8,42 +8,42 @@ modified: 2022-07-17
 
 My research interests are:
 
-### blabla
+<!-- ### blabla -->
 
-figure
+<!-- figure -->
 
-**Relevant publications:** 
+<!-- **Relevant publications:**  -->
 
-### blabla2
+<!-- ### blabla2 -->
 
-figure
+<!-- figure -->
 
-**Relevant publications:**
+<!-- **Relevant publications:** -->
 
-### blabla3
+<!-- ### blabla3 -->
 
-figure
+<!-- figure -->
 
-**Relevant publications:**
+<!-- **Relevant publications:** -->
 
 
-### Interdisciplinary approaches
+<!-- ### Interdisciplinary approaches -->
 
-figure
+<!-- figure -->
 
-**Relevant publications:**
+<!-- **Relevant publications:** -->
 
-### Open science
+<!-- ### Open science -->
 
-I am...
+<!-- I am... -->
 
-## Research projects & grants
+<!-- ## Research projects & grants -->
 
-### current:
-- 2021--2024:
+<!-- ### current: -->
+<!-- - 2021--2024: -->
 
-### completed:
-- 2018--2021:
+<!-- ### completed: -->
+<!-- - 2018--2021: -->
 
-### As collaborator
-- 2021--2024:
+<!-- ### As collaborator -->
+<!-- - 2021--2024: -->
