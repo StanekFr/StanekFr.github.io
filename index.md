@@ -11,8 +11,8 @@ title: "About"
   </div>
 </footer>
 
-I am currently a **postdoc at the [Department of Geophysics,
-Colorado School of Mines](https://geophysics.mines.edu/)**. I am a member of **[Reservoir Characterization Project (RCP)](https://rcp.mines.edu/)** and **[Center for Wave Phenomena (CWP)](https://cwp.mines.edu/)** research groups. RCP and CWP are consortia funded by industry and directly collaborating with industry, government agencies and other academic institutions.
+I am currently a **postdoc at the [Department of Geophysics, Colorado School of Mines](https://geophysics.mines.edu/)**. 
+I am a member of **[Reservoir Characterization Project (RCP)](https://rcp.mines.edu/)** and **[Center for Wave Phenomena (CWP)](https://cwp.mines.edu/)** research groups. RCP and CWP are consortia funded by industry and directly collaborating with industry, government agencies and other academic institutions.
 
 [![CSM_logo](/images/CSM_logo.png)](https://geophysics.mines.edu/)
 {: .image-pull-right .max-width-10}
@@ -25,4 +25,4 @@ On this website, you'll find info about me and the projects I contribute to.
 ### Contact
 <p>
 I currently live in Denver metropolitan area and work in Golden, Colorado, USA. 
-Feel free to reach me at <script>document.write("<n uers=\"znvygb:snovra.znhffvba@hvox.np.ng\">snovra.znhffvba@hvox.np.ng</n>".replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}))</script><noscript><span style="unicode-bidi:bidi-override;direction:rtl;">moc.liamg@reyohs</span></noscript>.</p>
+Feel free to reach me at <a href="mailto:FStanek@mines.edu">FStanek@mines.edu</a></p>
