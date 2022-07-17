@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: fm-header-8.jpg
+  feature: MTEvans.jpg
 title: "About"
 modified: 2016-05-12
 ---
