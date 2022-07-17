@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: fm-header-9.jpg
+  feature: PismoBeach.jpg
 title: "Curriculum Vitae: Frantisek Stanek"
 modified: 2022-02-20
 ---
