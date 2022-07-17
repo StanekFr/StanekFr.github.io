@@ -1,7 +1,7 @@
 ---
 layout: page
 image:
-  feature: fm-header-3.jpg
+  feature: Soelden.jpg
 title: "Publications and outreach"
 ---
 
