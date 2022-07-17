@@ -16,16 +16,16 @@ Unless specified otherwise, the content of this site (including images) are lice
 
 Site hosted on <a href="https://pages.github.com/" rel="nofollow"> GitHub</a>, powered by <a href="http://jekyllrb.com" rel="nofollow"> Jekyll</a> using the <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> theme (V2).
 
-### About the used photos:
-* [Homepage]({{ site.url }}/images/fm-header-1.jpg): Lake La’nga Co and Lake Mapam Yumco near Mount Kailash (Tibet)
-* [Research]({{ site.url }}/images/fm-header-2.jpg): Field work at Zhadang Glacier (Tibet)
-* [Publications]({{ site.url }}/images/fm-header-3.jpg): Watzespitze seen from the Steinbock pass (Austrian Alps)
-* [Software]({{ site.url }}/images/fm-header-5.jpg): Prins Karls Forland (Svalbard)
-* [CV]({{ site.url }}/images/fm-header-9.jpg): Dolomites, Italy
-* [Posts]({{ site.url }}/images/fm-header-6.jpg): Valley on the way to Naimona’nyi Glacier (Tibet)
-* [Team]({{ site.url }}/images/fm-header-7.jpg): Landmannalaugar, Iceland
-* [About]({{ site.url }}/images/fm-header-8.jpg): Pyrenees, France
+<!-- ### About the used photos: -->
+<!-- * [Homepage]({{ site.url }}/images/fm-header-1.jpg): Lake La’nga Co and Lake Mapam Yumco near Mount Kailash (Tibet) -->
+<!--* [Research]({{ site.url }}/images/fm-header-2.jpg): Field work at Zhadang Glacier (Tibet)-->
+<!--* [Publications]({{ site.url }}/images/fm-header-3.jpg): Watzespitze seen from the Steinbock pass (Austrian Alps)-->
+<!--* [Software]({{ site.url }}/images/fm-header-5.jpg): Prins Karls Forland (Svalbard)-->
+<!--* [CV]({{ site.url }}/images/fm-header-9.jpg): Dolomites, Italy-->
+<!--* [Posts]({{ site.url }}/images/fm-header-6.jpg): Valley on the way to Naimona’nyi Glacier (Tibet)-->
+<!--* [Team]({{ site.url }}/images/fm-header-7.jpg): Landmannalaugar, Iceland-->
+<!--* [About]({{ site.url }}/images/fm-header-8.jpg): Pyrenees, France -->
 
 ### Other things
 
-In my spare time I enjoy...
+In my spare time I enjoy sleeping, good food, sports :)
