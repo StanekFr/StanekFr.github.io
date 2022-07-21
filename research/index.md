@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: OKCity.jpg
+  feature: OKCity2.jpg
 title: "Research"
 modified: 2022-07-17
 ---
