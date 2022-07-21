@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: MTEvans.jpg
+  feature: MTEvans2.jpg
 title: "About"
 modified: 2022-07-17
 ---
