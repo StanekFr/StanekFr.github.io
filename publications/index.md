@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: Soelden.jpg
+  feature: Soelden2.jpg
 title: "Publications"
 modified: 2022-07-17
 ---
