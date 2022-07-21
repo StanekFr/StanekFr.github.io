@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: PismoBeach.jpg
+  feature: PismoBeach2.jpg
 title: "Curriculum Vitae"
 modified: 2022-07-17
 ---
