@@ -7,7 +7,7 @@ modified: 2022-07-17
 ---
 
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=k5i3d9MAAAAJ&hl=cs)
-<br>![ResearchGate]({{ site.url }}/images/rid.png) [ResearchGate](https://www.researchgate.net/profile/Frantisek-Stanek)
+<br>![ResearchGate]({{ site.url }}/images/RG.png) [ResearchGate](https://www.researchgate.net/profile/Frantisek-Stanek)
 <!-- ![Orcid]({{ site.url }}/images/orcid.png) [Orcid]((https://orcid.org/my-orcid?orcid=0000-0002-0037-9239))    -->
 <!-- ![Publons]({{ site.url }}/images/orcid.png) [Publons]((https://orcid.org/my-orcid?orcid=0000-0002-0037-9239))  -->
 
