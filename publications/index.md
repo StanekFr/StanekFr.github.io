@@ -6,13 +6,12 @@ title: "Publications"
 modified: 2022-07-17
 ---
 
-## Peer-reviewed publications
-
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=k5i3d9MAAAAJ&hl=cs)
 <br>![ResearchGate]({{ site.url }}/images/rid.png) [ResearchGate](https://www.researchgate.net/profile/Frantisek-Stanek)
 <!-- ![Orcid]({{ site.url }}/images/orcid.png) [Orcid]((https://orcid.org/my-orcid?orcid=0000-0002-0037-9239))    -->
 <!-- ![Publons]({{ site.url }}/images/orcid.png) [Publons]((https://orcid.org/my-orcid?orcid=0000-0002-0037-9239))  -->
 
+## Peer-reviewed publications
 - Stanek, F., Jin, G., and J. Simmons (2022), Fracture Imaging Using DAS Microseismic Events. Frontiers of Earth Sciences. doi: 10.3389/feart.2022.907749.
 - Anikiev, D., bin Waheed, U., Stanek, F., Alexandrov, D., Hao, Q., Iqbal, N., and L. Eisner (2022), Traveltime-based Earthquake Location Using Deep Learning. *Submitted Geophysics*.
 - Luo, B., Jin, G., and F. Stanek (2021), Near-field strain in DAS-based microseismic observation, *Geophysics*, 86(5), P49-P60. doi: 10.1190/geo2021-0031.1
@@ -26,14 +25,12 @@ modified: 2022-07-17
 - Valenta J., Rapprich V., Stárková M., Skácelová Z., Fojtíková L., Staněk F., Balek J. (2014) Problems and challenges in detection of pre-Mesozoic maar volcanoes: example from the Principálek Volcano in the Permian Krkonoše Piedmont Basin. *Journal of Geosciences*, 59, 169–181. doi: 10.3190/jgeosci.170
 
 ## Peer-reviewed publications in Journals without Impact Factor
-
 - Stanek, F., Williams-Stroud, S., Bauer, R., and L. Eisner (2021), Importance of Monitoring Seismicity Induced by CO2 Sequestration at Illinois Basin – Decatur Project. *Geophysical Society of Houston Journal*, Technical Article, March 2021, pp. 10-15.
 - Eisner, L. and F. Staněk (2018), Microseismic data interpretation — what do we need to measure first? First Break, Vol 36, No 2, Feb 2018, pp. 55 – 58.
 - Staněk, F., Jechumtálová, Z. and L. Eisner (2015), Reservoir stress from microseismic source mechanisms. *The Leading Edge*, 34(8), 890–893, 895. doi: 10.1190/tle34080890.1
 - Anikiev, D., Valenta, J., Stanek, F. and L. Eisner (2014), Detection, location and source mechanism determination of microseismic events: evaluating seismicity related to hydraulic fracturing. *First Break*, Vol 5, No 5, May 2014, pp. 59 – 65.
 
 ## Conference abstracts (selection)
-
 - Stanek, F., and Ge Jin (2021), Reservoir Characterization using DAS microseismic events – Fracture Imaging. SEG Technical Program Expanded Abstracts: 463-467. doi: 10.1190/segam2021-3583216.1
 - Anikiev, D., bin Waheed, U., Stanek, F., Alexandrov, D., and L. Eisner. (2021), Microseismic event location using artificial neural networks. SEG Technical Program Expanded Abstracts: 1661-1665. doi: 10.1190/segam2021-3582729.1
 - Luo, B., Stanek, F., and Ge Jin (2021), Near-filed strain of microseismic events in downhole DAS data. SEG Technical Program Expanded Abstracts: 402-406. doi: 10.1190/segam2021-3582141.1
@@ -55,7 +52,6 @@ the bedding plane slip in hydraulic fracturing of shales. SEG Annual Meeting Pos
 - Staněk, F., Eisner, L., and T.J. Moser (2012), Stability of source mechanisms inverted from P-wave amplitude microseismic monitoring data acquired at surface. SEG Technical Program Expanded Abstracts 2012: pp. 1-5. doi: 10.1190/segam2012-0418.1
 
 ## Patent
-
 - Eisner, L., Stanek, F., and Valenta, J. (2018). Method of using semblance of corrected amplitudes due to source mechanisms for microseismic event detection and location. US Patent 10036819.
 
 <!-- ## Seminars -->
