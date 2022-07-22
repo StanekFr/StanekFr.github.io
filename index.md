@@ -12,7 +12,7 @@ modified: 2022-07-17
   </div>
 </footer>
 
-I am a <b>postdoc at the [Dept. of Geophysics, Colorado School of Mines](https://geophysics.mines.edu/)</b>.
+I am a postdoc at the [Dept. of Geophysics, Colorado School of Mines](https://geophysics.mines.edu/).
 
 <p align="justify">I am a member of <b><a href="https://rcp.mines.edu/">Reservoir Characterization Project (RCP)</a></b> and <b><a href="https://cwp.mines.edu/">Center for Wave Phenomena (CWP)</a></b> research groups. RCP and CWP are consortia funded by industry and directly collaborating with industry, government agencies and other academic institutions.</p>
 
