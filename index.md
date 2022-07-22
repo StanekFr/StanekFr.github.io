@@ -19,7 +19,7 @@ I am a <b>postdoc at the [Dept. of Geophysics, Colorado School of Mines](https:/
 [![CSM_logo](/images/CSM_logo.png)](https://geophysics.mines.edu/)
 {: .image-pull-right .max-width-10}
 
-<p align="justify">I focus on the processing of <b>microseismic data</b> acquired using <b>DAS or traditional geophones/seismometers</b> either at the surface or in the borehole. In particular, I am trying to better understand the relationship between reservoir and seismicity induced during subsurface operations such as <b>hydraulic fracturing, CO2 injection, wastewater injection, and mining</b>. I am also interested in the topics of <b>cloud computing (AWS)</b>.
+<p align="justify">I focus on the processing of <b>microseismic data</b> acquired using <b>DAS or traditional geophones/seismometers</b> either at the surface or in the borehole. In particular, I am trying to better understand the relationship between reservoir and seismicity induced during subsurface operations such as <b>hydraulic fracturing, CO2 injection, wastewater injection, etc.</b>. I am also interested in the topics of <b>cloud computing (AWS)</b>.
 I work mainly from my office but I like going to the field as well.
 </p>
 On this website, you'll find info about me and the projects I contribute to.
