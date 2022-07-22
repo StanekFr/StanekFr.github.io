@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: OKCity2.jpg
+  feature: AbuDhabi2.jpg
 title: "Research"
 modified: 2022-07-17
 ---
