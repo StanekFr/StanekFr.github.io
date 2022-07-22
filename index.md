@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: AbuDhabi2.jpg
+  feature: Soelden2.jpg
 title: "About me"
 modified: 2022-07-17
 ---
