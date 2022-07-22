@@ -24,7 +24,7 @@ modified: 2022-07-17
 - Anikiev, D., **Staněk, F.**, Valenta, J. and L. Eisner (2014), Joint location and source mechanism inversion of microseismic events: benchmarking on seismicity induced by hydraulic fracturing. *Geophysical Journal International*, 198 (1): 249-258, doi: 10.1093/gji/ggu126
 - Valenta J., Rapprich V., Stárková M., Skácelová Z., Fojtíková L., **Staněk F.**, Balek J. (2014) Problems and challenges in detection of pre-Mesozoic maar volcanoes: example from the Principálek Volcano in the Permian Krkonoše Piedmont Basin. *Journal of Geosciences*, 59, 169–181. doi: 10.3190/jgeosci.170
 
-## Peer-reviewed publications in Journals without Impact Factor
+## Peer-reviewed publications without Impact Factor
 - **Stanek, F.**, Williams-Stroud, S., Bauer, R., and L. Eisner (2021), Importance of Monitoring Seismicity Induced by CO<sub>2</sub> Sequestration at Illinois Basin – Decatur Project. *Geophysical Society of Houston Journal*, Technical Article, March 2021, pp. 10-15.
 - Eisner, L. and **F. Staněk** (2018), Microseismic data interpretation — what do we need to measure first? First Break, Vol 36, No 2, Feb 2018, pp. 55 – 58.
 - **Staněk, F.**, Jechumtálová, Z. and L. Eisner (2015), Reservoir stress from microseismic source mechanisms. *The Leading Edge*, 34(8), 890–893, 895. doi: 10.1190/tle34080890.1
