@@ -12,7 +12,7 @@ modified: 2022-07-17
 <!-- ![Publons]({{ site.url }}/images/orcid.png) [Publons]((https://orcid.org/my-orcid?orcid=0000-0002-0037-9239))  -->
 
 ## Peer-reviewed publications
-- **Stanek, F.**, Jin, G., and J. Simmons (2022), Fracture Imaging Using DAS Microseismic Events. *Frontiers of Earth Sciences*. doi: 10.3389/feart.2022.907749.
+- **Stanek, F.**, Jin, G., and J. Simmons (2022), Fracture Imaging Using DAS Microseismic Events. *Frontiers of Earth Sciences*, 10. doi: 10.3389/feart.2022.907749
 - Anikiev, D., bin Waheed, U., **Stanek, F.**, Alexandrov, D., Hao, Q., Iqbal, N., and L. Eisner (2022), Traveltime-based Earthquake Location Using Deep Learning. *Submitted Geophysics*.
 - Luo, B., Jin, G., and **F. Stanek** (2021), Near-field strain in DAS-based microseismic observation, *Geophysics*, 86(5), P49-P60. doi: 10.1190/geo2021-0031.1
 - Williams-Stroud, S., Bauer, R., Leetaru, H., Oye, V., **Stanek, F.**, Greenberg, S., and N. Langet (2020), Analysis of Microseismicity and Reactivated Fault Size to Assess the Potential for Felt Events by Injection in the Illinois Basin. *Bulletin of the Seismological Society of America*, 110 (5), 2188-2204.
