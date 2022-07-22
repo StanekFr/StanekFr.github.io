@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: Soelden2.jpg
+  feature: OKCity2.jpg
 title: "Publications"
 modified: 2022-07-17
 ---
