@@ -31,6 +31,7 @@ owner:
   name: Frantisek Stanek
   avatar: FS_head.jpg
   bio: "Geophysicist"
+  linkedin: stanekfr
   github: StanekFr
   bitbucket: #username
   orcid: 0000-0002-0037-9239
@@ -49,7 +50,6 @@ owner:
     ad-client: #username
     ad-slot: #username
   bing-verify: #username
-  linkedin: stanekfr
   instagram: #username
   lastfm: #username
   tumblr: #username
