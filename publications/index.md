@@ -29,7 +29,7 @@ modified: 2022-07-17
 - **Stanek, F.**, Williams-Stroud, S., Bauer, R., and L. Eisner (2021), Importance of Monitoring Seismicity Induced by CO<sub>2</sub> Sequestration at Illinois Basin – Decatur Project. *Geophysical Society of Houston Journal*, Technical Article, March 2021, pp. 10-15.
 - Eisner, L. and **F. Staněk** (2018), <a href="https://www.researchgate.net/publication/323398626_Microseismic_data_interpretation_-_what_do_we_need_to_measure_first">Microseismic data interpretation — what do we need to measure first?</a> First Break, Vol 36, No 2, Feb 2018, pp. 55 – 58.
 - **Staněk, F.**, Jechumtálová, Z. and L. Eisner (2015), <a href="https://www.researchgate.net/publication/282018037_Reservoir_stress_from_microseismic_source_mechanisms">Reservoir stress from microseismic source mechanisms</a>. *The Leading Edge*, 34(8), 890–893, 895. doi: 10.1190/tle34080890.1
-- Anikiev, D., Valenta, J., **Stanek, F.** and L. Eisner (2014), <a href="https://www.earthdoc.org/content/journals/0.3997/1365-2397.32.5.75214">Detection, location and source mechanism determination of microseismic events: evaluating seismicity related to hydraulic fracturing</a>. *First Break*, Vol 5, No 5, May 2014, pp. 59 – 65.
+- Anikiev, D., Valenta, J., **Stanek, F.** and L. Eisner (2014), Detection, location and source mechanism determination of microseismic events: evaluating seismicity related to hydraulic fracturin. *First Break*, Vol 5, No 5, May 2014, pp. 59 – 65.
 
 <!-- <a href="https://www.researchgate.net/publication/299906278_Stress_field_orientation_inverted_from_source_mechanisms_of_microseismic_events_induced_by_hydraulic_fracturing_and_geomechanical_interpretation"> -->
 
