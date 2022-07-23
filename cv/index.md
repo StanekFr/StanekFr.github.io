@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: 2.jpg
+  feature: MTEvans2.jpg
 title: "Curriculum Vitae"
 modified: 2022-07-17
 ---
