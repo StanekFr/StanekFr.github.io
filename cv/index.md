@@ -6,5 +6,5 @@ title: "Curriculum Vitae"
 modified: 2022-07-17
 ---
 
-<!-- - [Web version]({{ site.url }}/cv/cv_maussion.html) -->
-<!-- - [PDF version]({{ site.url }}/cv/cv_maussion.pdf) -->
+- [Web version]({{ site.url }}/cv/CV_FrantisekStanek.html)
+- [PDF version]({{ site.url }}/cv/CV_FrantisekStanek.pdf)
