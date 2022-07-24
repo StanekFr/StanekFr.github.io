@@ -27,7 +27,7 @@ On this website, you'll find info about me and the projects I contribute to.
 ### Contact
 <p>
 I currently live in Denver metropolitan area and work in Golden, Colorado, USA. 
-Feel free to reach me at <a href="mailto:FStanek@mines.edu">FStanek@mines.edu</a>.
+<br>Feel free to reach me at <a href="mailto:FStanek@mines.edu">FStanek@mines.edu</a>.
 </p>
 
 ### Other
