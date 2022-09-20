@@ -13,7 +13,7 @@ modified: 2022-07-17
 
 ## Peer-reviewed publications
 - Wcislo, M.D., **Staněk, F.**, Gallovič, F., Wu, S., and I. Pšenčík (2022), Induced supershear microseismic event with rupture directivity and superimposed attenuation effects. *Submitted SRL*.
-- Anikiev, D., bin Waheed, U., **Stanek, F.**, Alexandrov, D., Hao, Q., Iqbal, N., and L. Eisner (2022), Traveltime-based Earthquake Location Using Deep Learning. *Submitted Geophysics*.
+- Anikiev, D., bin Waheed, U., **Stanek, F.**, Alexandrov, D., Hao, Q., Iqbal, N., and L. Eisner (2022), Traveltime-based Earthquake Location Using Deep Learning. *Submitted Frontiers of Earth Sciences*.
 - **Stanek, F.**, Jin, G., and J. Simmons (2022), <a href="https://www.researchgate.net/publication/362091389_Fracture_Imaging_Using_DAS-Recorded_Microseismic_Events">Fracture Imaging Using DAS Microseismic Events</a>. *Frontiers of Earth Sciences*, 10. doi: 10.3389/feart.2022.907749
 - Luo, B., Jin, G., and **F. Stanek** (2021), <a href="https://www.researchgate.net/publication/351963555_Near-field_strain_in_distributed_acoustic_sensing-based_microseismic_observation">Near-field strain in DAS-based microseismic observation</a>, *Geophysics*, 86(5), P49-P60. doi: 10.1190/geo2021-0031.1
 - Williams-Stroud, S., Bauer, R., Leetaru, H., Oye, V., **Stanek, F.**, Greenberg, S., and N. Langet (2020), <a href="https://www.researchgate.net/publication/343727322_Analysis_of_Microseismicity_and_Reactivated_Fault_Size_to_Assess_the_Potential_for_Felt_Events_by_CO2_Injection_in_the_Illinois_Basin">Analysis of Microseismicity and Reactivated Fault Size to Assess the Potential for Felt Events by Injection in the Illinois Basin</a>. *Bulletin of the Seismological Society of America*, 110 (5), 2188-2204.
