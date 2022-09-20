@@ -32,5 +32,5 @@ I currently live in Denver metropolitan area and work in Golden, Colorado, USA.
 
 ### Other
 <p>
-In my spare time, I enjoy sleeping, having good food, traveling, and I like all kinds of sports :)
+In my spare time, I enjoy sleeping, eating good food, traveling, and I like all kinds of sports :)
 </p>
