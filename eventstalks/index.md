@@ -34,7 +34,7 @@ modified: 2022-07-17
 
 <!-- <a href="https://www.researchgate.net/publication/299906278_Stress_field_orientation_inverted_from_source_mechanisms_of_microseismic_events_induced_by_hydraulic_fracturing_and_geomechanical_interpretation"> -->
 
-## Conference abstracts (selection)
+## Conference extended bstracts (selection)
 - **Stanek, F.**, and Ge Jin (2021), Reservoir Characterization using DAS microseismic events – Fracture Imaging. SEG Technical Program Expanded Abstracts: 463-467. doi: 10.1190/segam2021-3583216.1
 - Anikiev, D., bin Waheed, U., **Stanek, F.**, Alexandrov, D., and L. Eisner. (2021), Microseismic event location using artificial neural networks. SEG Technical Program Expanded Abstracts: 1661-1665. doi: 10.1190/segam2021-3582729.1
 - Luo, B., **Stanek, F.**, and Ge Jin (2021), Near-filed strain of microseismic events in downhole DAS data. SEG Technical Program Expanded Abstracts: 402-406. doi: 10.1190/segam2021-3582141.1
