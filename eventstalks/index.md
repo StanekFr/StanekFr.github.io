@@ -1,4 +1,3 @@
-
 ---
 layout: homepage
 image:
@@ -8,10 +7,13 @@ modified: 2022-07-17
 ---
 
 ## Conferences
+- TBD
 
 ## Workshops
+- TBD
 
 ## Talks/Seminars/Webinars
+- TBD
 
 ## Conference extended bstracts (selection)
 - **Stanek, F.**, and Ge Jin (2021), Reservoir Characterization using DAS microseismic events – Fracture Imaging. SEG Technical Program Expanded Abstracts: 463-467. doi: 10.1190/segam2021-3583216.1
