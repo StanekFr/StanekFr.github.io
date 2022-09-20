@@ -3,7 +3,7 @@
 layout: homepage
 image:
   feature: OKCity2.jpg
-title: "Publications"
+title: "Events and talks"
 modified: 2022-07-17
 ---
 
